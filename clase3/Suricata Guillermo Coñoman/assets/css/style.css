@@ -1,0 +1,68 @@
+#cabeza{
+    background-color: #E83E8C;
+}
+
+.container-fluid{
+    background-color: #E83E8C;
+}
+
+.navbar-brand{
+    background-color: #E83E8C;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+#menu-nav{
+    text-align: right;
+}
+
+#sectprod1{
+    text-align: center;
+}
+
+#sectprod1 .card{
+    display: inline-block;
+}
+
+#sectprod2{
+    text-align: center;
+}
+
+#sectprod2 .card{
+    display: inline-block;
+}
+
+.card{
+    padding: 10px;
+}
+
+#foot1{
+    background-color: #17A2B8;
+    text-align: center;
+    color: white;
+}
+
+#foot1 i{
+    font-size: 50px;
+}
+
+#foot2{
+    background-color: #E83E8C;
+    text-align: center;
+    padding: auto;
+}
+
+#foot2 img{
+    width: 53px;
+    height: 100px;
+}
+
+#footer-targetas h1{
+    display: inline-block;
+}
+
+
+

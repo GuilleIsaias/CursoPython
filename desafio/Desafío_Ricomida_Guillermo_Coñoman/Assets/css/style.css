@@ -1,0 +1,40 @@
+body{
+    width: auto;
+}
+
+#wrapper img{
+    height: 384px;
+    width: 482px;
+}
+
+.but01, .but02 {
+    padding: 20px;
+}
+
+#wrapper img, .texto1, .but01, .but02 {
+    display: inline-block;
+}
+
+#carou {
+
+    padding: 50px;
+}
+
+#carou img {
+    height: 170px;
+    width: 233px;
+}
+
+#news {
+    background-color:#DC3545 ;
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+footer {
+    background-color: #373A3C;
+    padding: 30px;
+    color: white;
+}

@@ -1,0 +1,38 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: auto;
+    font-style: normal;
+}
+
+
+.card-tittle{
+    color: #212529;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+}
+
+.card-text{
+    color: #707070;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#get-coup{
+    background-color: #28A745;
+    padding: 30px;
+}
+
+.card-footer .befprice .couprice{
+    display: inline-block
+}
+
+.befprice{
+    color: #707070;
+}
+
+.couprice{
+    color: #28A745;
+}

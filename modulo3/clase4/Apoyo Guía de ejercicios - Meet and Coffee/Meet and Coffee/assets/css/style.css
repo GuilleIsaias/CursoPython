@@ -1,0 +1,56 @@
+body {
+    background-color: #a4452c;
+}
+
+header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: Open sans;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+
+   }
+
+   header h1{
+    font-size: 60px;
+   }
+
+   header h3{
+    font-size: 40px;
+    font-weight: lighter;
+   }
+
+#Proxima-Charla {
+    background: hsl(19, 92%, 30%);
+    padding: 0px;
+    color: white;
+   }
+
+#Proxima-Charla .wrapper {
+    width: 800px;
+    margin: auto;
+   }
+
+.wrapper img {
+    width: 25%;
+   }
+
+.wrapper .texto {
+    width: 70%;
+    margin-left: 4%;
+   }
+
+.wrapper img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+   }
+
+
+
+
+
+
